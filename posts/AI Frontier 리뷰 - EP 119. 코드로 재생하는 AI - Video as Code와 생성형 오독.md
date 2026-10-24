@@ -1,12 +1,12 @@
 ---
-title: Untitled
-slug: untitled
+title: AI Frontier 리뷰 - EP 119. 코드로 재생하는 AI - Video as Code와 생성형 오독
+slug: ai-frontier-video-as-code-and-generative-misreading
 date: 2026-10-24
 description: ""
 tags:
   - 짧글
   - AI-Frontier
-draft: true
+draft: false
 ---
 ## 영상 설명
 Opus 5.5 이후로 시작된 "Video as Code" 와 "생성형 오독"에 대한 내용입니다.
