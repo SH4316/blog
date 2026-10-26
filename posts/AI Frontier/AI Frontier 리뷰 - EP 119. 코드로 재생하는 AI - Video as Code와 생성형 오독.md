@@ -6,6 +6,7 @@ description: ""
 tags:
   - 짧글
   - AI-Frontier
+  - LLM
 draft: false
 ---
 ## 영상 설명
