@@ -3,7 +3,10 @@ title: Gemini 4 Carbon 출시
 slug: gemini-4-carbon-release
 date: 2026-10-29
 description: ""
-tags: []
+tags:
+  - LLM
+  - Google
+  - Artificial-Analysis
 draft: false
 ---
 ## Gemini 4 Carbon 출시
